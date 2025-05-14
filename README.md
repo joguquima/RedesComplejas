@@ -47,8 +47,8 @@ Este repositorio reúne herramientas, scripts y casos de estudio orientados al *
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/redes-complejas.git
-cd redes-complejas
+git clone https://github.com/fabianastudillo/RedesComplejas.git
+cd RedesComplejas
 ```
 
 ### Ejecutar un ejemplo en Julia
