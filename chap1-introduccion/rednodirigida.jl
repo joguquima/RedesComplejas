@@ -1,7 +1,7 @@
 using Graphs, SparseArrays
 
-# Crear grafo dirigido
-g = SimpleDiGraph(5)
+# Crear grafo no dirigido
+g = SimpleGraph(5)
 add_edge!(g, 1, 2)
 add_edge!(g, 1, 3)
 add_edge!(g, 2, 4)
